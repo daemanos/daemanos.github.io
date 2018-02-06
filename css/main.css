@@ -6,6 +6,14 @@ body {
     width: 70%;
 }
 
+ul {
+    line-height: 1.6em;
+}
+
+ul li {
+    margin-bottom: .2em;
+}
+
 footer {
     clear: both;
 }
@@ -29,10 +37,11 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    transition: color 0.2s;
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #75aaff;
 }
 
 h1, h2, h3 {
