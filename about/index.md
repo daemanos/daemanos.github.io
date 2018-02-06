@@ -13,7 +13,9 @@ especially as it relates to the problems of AI and algorithmic security.
 
 I love to read, solve puzzles, and [invent languages][conlang]. I've played the
 piano since middle school, have recently started learning how to cook, and I
-also like [flags][vexillology].
+also like [flags][vexillology] (you can see some of the flags I've designed at
+the [flag gallery](/proj/flags), and my personal flag
+[here](/about/personalflag)).
 
 I grew up in Pittsburgh, Pennsylvania with my mom, sister, [Max, Kiki][cats],
 and [Felix][felix], and currently live in Rochester, New York.
