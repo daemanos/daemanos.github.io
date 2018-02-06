@@ -5,4 +5,5 @@ title: Daman Morris
 
 # Hi there, I'm Daman Morris!
 
-Lorem ipsum dolor sit amet.
+I'm a computer science student and language nerd. See [the about page](/about)
+for more information.
