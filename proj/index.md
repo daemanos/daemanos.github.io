@@ -54,14 +54,16 @@ detail on [its own page](/about/personalflag).
 
 Some smaller projects I've done as part of my courses include:
 
-- Web-based Checkers application with the [Spark microframework](sparkjava.com)
-  and Java 8
+- A web-based checkers application with the [Spark
+  microframework](sparkjava.com) and Java 8
 - Dijkstra's algorithm in MIPS assembly
 - Developed and wrote the reference implementation for a project involving the
   creation of an infix calculator in MIPS assembly
 - Created plots for a research project in Science and Analytics of Speech
   using [Julia](julialang.org) and [Gadfly](gadflyjl.org)
 - An ASCII wildfire simulator and a partial R2K object file parser in C
+
+Where applicable, source code for the above projects is available upon request.
 
 
 [gloss]: https://wikipedia.org/wiki/Interlinear_gloss
