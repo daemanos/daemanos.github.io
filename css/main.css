@@ -82,3 +82,20 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+figure.flag {
+    display: inline-block;
+    max-width: 300px;
+    vertical-align: top;
+}
+
+figure.flag img {
+    max-width: 300px;
+}
+
+figcaption {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 300;
+    color: #444;
+    margin-top: 0.5em;
+}

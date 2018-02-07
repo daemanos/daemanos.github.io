@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="450"
+   height="300"
+   viewBox="0 0 119.0625 79.375002"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="portugal_rose.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient01">
+      <stop
+         id="stop10110"
+         style="stop-color:#c8c8c8; stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop10112"
+         style="stop-color:#fff; stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <circle
+       r="7.5"
+       stroke="#000"
+       fill="url(#linearGradient01)"
+       id="1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="159.86634"
+     inkscape:cy="200.02527"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1896"
+     inkscape:window-height="1018"
+     inkscape:window-x="10"
+     inkscape:window-y="10"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217.625)">
+    <rect
+       style="opacity:1;fill:#254b99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.22916698;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:5.0999999;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect10186"
+       width="47.625"
+       height="79.375"
+       x="0"
+       y="217.625"
+       inkscape:label="left field" />
+    <rect
+       y="217.625"
+       x="47.625"
+       height="79.375"
+       width="71.4375"
+       id="rect10294"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.22916698;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:5.0999999;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:label="right field" />
+    <path
+       style="opacity:1;fill:#254b99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.96875024;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:5.0999999;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 47.625004,283.77084 V 257.3125 l -3.741775,3.74177 -22.716562,-3.74177 h 26.458337 l -3.741775,-3.74177 3.741773,-22.71657 2e-6,26.45834 3.741773,-3.74177 22.716566,3.74177 H 47.625004 l 3.741773,3.74177 z"
+       id="path10300"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path10303"
+       d="m 74.083347,257.3125 h -26.45834 l 3.741769,-3.74178 -3.741769,-22.71656 v 26.45834 l -3.74177,-3.74178 -22.71657,3.74178 h 26.45834 l -3.74177,3.74177 3.74177,22.71657 V 257.3125 l 3.741769,3.74177 z"
+       style="opacity:1;fill:#00aa44;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.96875024;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:5.0999999;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+</svg>
