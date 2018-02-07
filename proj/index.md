@@ -18,8 +18,24 @@ of the details. Jet is the distillation and generalization of that and other
 database utilities, enabling the rapid creation of sophisticated databases in
 pure Java.
 
-It is available [on Github](https://github.com/daemanos/jet) under an MIT
-license.
+It is currently still in its early stages, but you can see it [on
+Github](https://github.com/daemanos/jet).
+
+### Pangloss
+
+For most of my personal documents, I use the [pandoc](https://pandoc.org) tool
+to convert Markdown sources into either PDF or HTML documents. Pandoc has its
+own variety of Markdown that has broad support for almost any form of standard
+document layout. However, as I am an avid conlanger I am often in the business
+of writing grammars, and these tend to make heavy use of [interlinear
+glosses][gloss], for which pandoc has no native support.
+
+Luckily, pandoc provides a mechanism for filters. These are standalone programs
+that receive a JSON-encoded version of the pandoc AST on standard input, modify
+it, and write back the modified JSON encoding to be further processed by
+pandoc. So, I wrote [pangloss](https://github.com/daemanos/pangloss), a pandoc
+filter for converting interlinear glosses into interlinear glosses for PDF and
+HTML output.
 
 ### Lexis
 
@@ -46,3 +62,6 @@ Some smaller projects I've done as part of my courses include:
 - Created plots for a research project in Science and Analytics of Speech
   using [Julia](julialang.org) and [Gadfly](gadflyjl.org)
 - An ASCII wildfire simulator and a partial R2K object file parser in C
+
+
+[gloss]: https://wikipedia.org/wiki/Interlinear_gloss
