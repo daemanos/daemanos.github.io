@@ -4,7 +4,28 @@ body {
     font-family: 'Merriweather', serif;
     margin: 60px auto;
     width: 70%;
+    height: 100%;
     color: #333;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navicon {
+    display: inline;
+    height: 36px;
+    margin-bottom: -14px;
+}
+
+.note {
+    color: #999;
+}
+
+p {
+    text-align: justify;
 }
 
 ul {
@@ -17,6 +38,7 @@ ul li {
 
 footer {
     clear: both;
+    text-align: center;
 }
 
 nav ul, footer ul {
@@ -28,6 +50,8 @@ nav ul, footer ul {
 
 footer ul {
     font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 nav ul li, footer ul li {
@@ -37,12 +61,16 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #999;
+    color: #75aaff;
     transition: color 0.2s;
 }
 
 a:hover {
-    color: #75aaff;
+    color: #3978cd;
+}
+
+nav a, footer a {
+    color: #999;
 }
 
 h1, h2, h3 {
