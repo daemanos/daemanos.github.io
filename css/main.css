@@ -2,10 +2,19 @@
 
 body {
     font-family: 'Merriweather', serif;
-    margin: 60px auto;
-    width: 70%;
+    margin: 0;
     height: 100%;
     color: #333;
+}
+
+header {
+    margin: 60px auto;
+    width: 70%;
+}
+
+.container {
+    margin: auto;
+    width: 70%;
 }
 
 .center {
@@ -37,6 +46,9 @@ ul li {
 }
 
 footer {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 70%;
     clear: both;
     text-align: center;
 }
@@ -86,6 +98,7 @@ h1 {
 
 h2 {
     font-size: 2em;
+    margin-bottom: -4px;
 }
 
 h3 {
