@@ -22,8 +22,17 @@ and [Felix][felix], and currently live in Rochester, New York.
 
 I am fueled by a combination of black coffee and herbal tea.
 
+## A Note on Naming
+
+The name of this site, `daeman.me`, and most of my other online names
+(typically some form of `daeman`) is a shameless pun on my name, Daman
+(pronounced [/ˈdeɪ̯mən/][ipa] DAY-mun), which is a "unique" spelling of the name
+Damon. If you squint hard enough, it looks like (and sounds like!) the word
+*daemon*, which in UNIX circles refers to a background process; hence,
+*daeman* = *Daman* + *daemon*.
 
 [cats]: /assets/images/cats.jpg
 [felix]: /assets/images/felix.jpg
 [conlang]: https://en.wikipedia.org/wiki/Constructed_language
 [vexillology]: https://en.wikipedia.org/wiki/Vexillology
+[ipa]: https://en.wikipedia.org/wiki/Help:IPA/English
