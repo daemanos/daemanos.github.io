@@ -14,6 +14,6 @@ enseigner plus. Aussi, vous pouvez découvrir quelques-uns de mes projéts à la
 [page des projéts](/proj), ou bien vous pouvez télécharger une copie de ma
 [résumé](/resume.pdf).
 
-Willkommen! Ich bin Daman Morris, ein Student des Informatik und Sprachnerd.
+Willkommen! Ich bin Daman Morris, ein Informatik Student und Sprachnerd.
 <span class="note">(Still working on my German, and this is probably a terrible
 translation already. Sorry Germans!)</span>

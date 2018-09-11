@@ -29,18 +29,86 @@
                 max-width: 600px;
             }
 
+            #logo-container {
+                min-width: 100%;
+                margin-top: 40px;
+                height: 280px;
+                display: flex;
+            }
+
+            #ribbon-pre {
+                background-image: url("/assets/images/logo_tile2.svg")
+            }
+
+            #ribbon-post {
+                background-image: url("/assets/images/logo_tile.svg");
+                margin-left: 10px;
+            }
+
+            .ribbon {
+                margin-top: auto;
+                margin-bottom: auto;
+                height: 140px;
+                background-size: 10px 100%;
+                background-repeat: repeat-x;
+                width: 100%;
+                flex-grow: 1;
+            }
+
             #biglogo {
-                width: 300px;
+                display: block;
+                width: auto;
+                height: 100%;
+                margin-left: 10px;
+            }
+
+            @media only screen and (max-width: 650px) {
+                h1 {
+                    font-size: 2.5em;
+                }
+                h2 {
+                    font-size: 1.5em;
+                }
+                #logo-container {
+                    height: 200px;
+                }
+                #biglogo {
+                    margin-left: 6px;
+                }
+                .ribbon {
+                    height: 100px;
+                }
+                #ribbon-post {
+                    margin-left: 6px;
+                }
+            }
+
+            @media only screen and (max-width: 480px) {
+                h1 {
+                    font-size: 2em;
+                }
+                h2 {
+                    font-size: 1em;
+                }
+                #logo-container {
+                    display: none;
+                }
             }
         </style>
     </head>
     <body>
+        <div id="logo-container">
+            <div class="ribbon" id="ribbon-pre"></div>
+            <img id="biglogo" src="/assets/images/logo.svg">
+            <div class="ribbon" id="ribbon-post"></div>
+            <!--<img id="biglogo" src="/assets/images/logo.svg">-->
+            <!--<img src="/assets/images/logo_tile.svg" height="323px">-->
+        </div>
+        <header>
+            <h1>dæman[.me]</h1>
+            <h2>nerd · linguist · <span class="var">$MARKETING_TERM</span></h2>
+        </header>
         <div class="container center">
-            <div id="landing-header">
-                <img id="biglogo" class="center" src="/assets/images/logo.svg">
-                <h1>dæman[.me]</h1>
-                <h2>nerd · linguist · <span class="var">$MARKETING_TERM</span></h2>
-            </div>
 
             {{content}}
         </div>
