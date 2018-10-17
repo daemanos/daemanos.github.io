@@ -141,3 +141,9 @@ figcaption {
     color: #444;
     margin-top: 0.5em;
 }
+
+@media only screen and (max-width: 480px) {
+  .container, header {
+    width: 90%;
+  }
+}
